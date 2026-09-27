@@ -78,7 +78,7 @@ Example request body:
 
 ```json
 {
-  "customer_name": "Falak",
+  "customer_name": "Rajiv",
   "delivery_address": "Kolkata",
   "items": "Dosa"
 }
